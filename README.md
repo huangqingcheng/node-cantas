@@ -1,5 +1,3 @@
-# Cantas
-
 Cantas is a real-time collaborative web application.
 
 - node-cantas is a fork of nodejs-cantas(https://github.com/xiaods/nodejs-cantas)
